@@ -14,9 +14,9 @@ import "./app.scss";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import DataTable from "./components/DataTable";
-import CreateUser from "./components/CreateUser";
-import UpdateUser from "./components/UpdateUser";
-import DeleteUser from "./components/DeleteUser";
+import CreatePost from "./components/CreatePost";
+import UpdatePost from "./components/UpdatePost";
+import DeletePost from "./components/DeletePost";
 import Modal from "./components/Modal";
 import Search from "./components/Search";
 import Loader from "./components/Loader";
@@ -229,20 +229,20 @@ function App() {
       {activeModal.active && (
         <Modal activeModal={activeModal}>
           {activeModal.name === "Create Post" && (
-            <CreateUser
+            <CreatePost
               createPost={createPost}
               setActiveModal={setActiveModal}
             />
           )}
           {activeModal.name === "Update Post" && (
-            <UpdateUser
+            <UpdatePost
               currentPost={currentPost}
               updatePost={updatePost}
               setActiveModal={setActiveModal}
             />
           )}
           {activeModal.name === "Delete Post" && (
-            <DeleteUser
+            <DeletePost
               currentPost={currentPost}
               deletePost={deletePost}
               setActiveModal={setActiveModal}
