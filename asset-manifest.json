@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-crud/static/css/main.f23e3a2e.chunk.css",
+    "main.js": "/react-crud/static/js/main.8a702b67.chunk.js",
+    "main.js.map": "/react-crud/static/js/main.8a702b67.chunk.js.map",
+    "runtime-main.js": "/react-crud/static/js/runtime-main.cac5419d.js",
+    "runtime-main.js.map": "/react-crud/static/js/runtime-main.cac5419d.js.map",
+    "static/js/2.78c054e9.chunk.js": "/react-crud/static/js/2.78c054e9.chunk.js",
+    "static/js/2.78c054e9.chunk.js.map": "/react-crud/static/js/2.78c054e9.chunk.js.map",
+    "index.html": "/react-crud/index.html",
+    "precache-manifest.ccb8ab1d90aa38e489c9168b925eeaf0.js": "/react-crud/precache-manifest.ccb8ab1d90aa38e489c9168b925eeaf0.js",
+    "service-worker.js": "/react-crud/service-worker.js",
+    "static/css/main.f23e3a2e.chunk.css.map": "/react-crud/static/css/main.f23e3a2e.chunk.css.map",
+    "static/js/2.78c054e9.chunk.js.LICENSE.txt": "/react-crud/static/js/2.78c054e9.chunk.js.LICENSE.txt",
+    "static/js/main.8a702b67.chunk.js.LICENSE.txt": "/react-crud/static/js/main.8a702b67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cac5419d.js",
+    "static/js/2.78c054e9.chunk.js",
+    "static/css/main.f23e3a2e.chunk.css",
+    "static/js/main.8a702b67.chunk.js"
+  ]
+}
